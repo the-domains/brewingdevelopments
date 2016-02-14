@@ -1,0 +1,28 @@
+name: brewingdevelopments
+favicon: null
+layout_spectrum: 0.2888490839395672
+typography_spectrum: 0.2209605381358415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.44993060315027833
+  lightness: 0.46172449504956603
+  saturation: 0.05640069721266627
+  rhythmicContrast: 0.6617002857383341
+purpose: []
