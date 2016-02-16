@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brewing Developments]]></title>
-        <description><![CDATA[Brewing Developments]]></description>
+        <title><![CDATA[BREWING DEVELOPMENTS]]></title>
+        <description><![CDATA[BREWING DEVELOPMENTS]]></description>
         <link>https://thegrid.ai/brewingdevelopments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 14:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 14:25:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brewingdevelopments/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A resource for the brewing industry. ]]></title>
+            <description><![CDATA[<article><h1>A resource for the brewing industry. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6db15926160107193d2792c680928f84bdc3ab12.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brewingdevelopments/36fa7aaa-d9ca-42f5-8314-c10301802bd6/index.html</link>
+            <guid isPermaLink="false">36fa7aaa-d9ca-42f5-8314-c10301802bd6</guid>
+            <pubDate>Tue, 16 Feb 2016 14:24:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BarFly Ventures, LLC, owner and operator of HopCat, is venturing into marketing and distributing its Beer Right Meow American India Pale Aleh. BarFly has partnered with contract brewery Brew Detroit, LLC for this venture. </p>]]></description>
             <link>https://thegrid.ai/brewingdevelopments/ff13b7e5-eda5-4d3e-aed7-f326f2587169/index.html</link>
             <guid isPermaLink="false">ff13b7e5-eda5-4d3e-aed7-f326f2587169</guid>
             <pubDate>Tue, 16 Feb 2016 14:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e20f7df-35f1-4459-a3cb-0c64ed15e31c.jpg">]]></description>
-            <link>https://thegrid.ai/brewingdevelopments/36fa7aaa-d9ca-42f5-8314-c10301802bd6/index.html</link>
-            <guid isPermaLink="false">36fa7aaa-d9ca-42f5-8314-c10301802bd6</guid>
-            <pubDate>Sun, 14 Feb 2016 00:17:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
